@@ -18,6 +18,11 @@
 - 同理,gif将`photo`替换成`gif`,视频替换成`video`,文件替换成`file`
 - 注意: 这里的链接必须是公开群组的,否则无法发出来
 
+### 使用说明
+
+https://bytemeta.vip/repo/WYEEE/tg-keyword-reply-bot
+https://telegra.ph/%E8%BF%99%E4%B8%AA%E6%88%91%E7%9F%A5%E9%81%93%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-07-07
+
 ## License
 
 MIT zu1k i@zu1k.com
